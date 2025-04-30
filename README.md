@@ -9,8 +9,8 @@
 Website company profile modern, responsif, dan profesional untuk PT. Sejahtera Gajah Mada, sebuah perusahaan di bidang logistik. Dibangun menggunakan teknologi frontend terkini.
 
 ## DEMO WEB
-!![DEMO](https://pt-sgm.vercel.app/)
-!![PREVIEW](https://github.com/user-attachments/assets/7b72b029-4f98-4bdb-a457-d2538fb0f4db)
+[DEMO](https://pt-sgm.vercel.app/)
+![PREVIEW](https://github.com/user-attachments/assets/7b72b029-4f98-4bdb-a457-d2538fb0f4db)
 
 
 ## ✨ Fitur Utama
